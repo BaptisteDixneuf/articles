@@ -1,0 +1,18 @@
+- A1.1.1 Analyse du cahier des charges d'un service à produire
+	- Analyse des demandes pour les différentes itérations
+- A1.4.1 Participation à un projet
+	- Projet en binôme avec David Drapeau
+	- Projet décomposé en 12 étapes itératives
+- A4.1.3 Conception ou adaptation d'une base de données
+	- Réalisation des requêtes de validation du jeu d’essai
+- A4.1.7 Développement, utilisation ou adaptation de composants logiciels
+	-Codage du script python
+- A4.1.8 Réalisation des tests nécessaires à la validation d'éléments adaptés ou développés
+	- Réalisation de l’ensemble des tests suivants pour les fichiers log_proxy_2014-01-jj.txt
+- A4.1.9 Rédaction d'une documentation technique
+	- Rédaction du mode opérateur pour lancer le script
+- A5.1.2 Recueil d'informations sur une configuration et ses éléments
+	- "Analyse des fichiers texte log_proxy_2014-01-xx.txt pour noter les informations que nous pouvons lire dans chaque ligne et dans quel champs de quelle table nous pourrions les enregistrer ou les rechercher
+-> recueil d'informations importante
+- A5.2.3 Repérage des compléments de formation ou d'auto-formation utiles à l'acquisition de nouvelles compétences
+	- Formation aux commandes Python permettant de lire et d’écrire dans un fichier texte

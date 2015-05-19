@@ -1,5 +1,3 @@
-# PPE1 - PYTHON - Contexte du projet
-
 Projet effectué en binôme avec DRAPEAU David.
 
 ##CONTEXTE:
@@ -38,3 +36,4 @@ Documents demandés:
 ##EVALUATION:
 
 Chaque binôme évalue la réalisation de deux autres binômes : la grille d’évaluation est remplie en testant le jeu d’essai fourni.
+

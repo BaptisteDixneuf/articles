@@ -4,8 +4,9 @@ Binômes de l’équipe:
 - Binôme 01 -> DIXNEUF Baptiste et DRAPEAU David
 - Binôme 02 -> JAUNASSE Alexandre et BONIN Alexis
 
-### Mission 1 : amélioration de l’ergonomie /Découverte (pas plus d’une demi-journé ###e)
-- Rappel de la mission:
+### Mission 1 : amélioration de l’ergonomie /Découverte (pas plus d’une demi-journée)
+ Rappel de la mission:
+
 - Difficulté : *
 - Résultats attendus :
 	- Le projet 
@@ -75,6 +76,7 @@ Binômes de l’équipe:
 ### Mission 3 : amélioration fonctionnelle -Tri (de 0,5 à 1 journée) ###
 
 Rappel de la mission:
+
 - Difficulté : **
 - Résultats attendus :
 - Le projet 
@@ -104,6 +106,7 @@ Binômes de l’équipe:
 
 ### Mission 4 : Ajout fonctionnelle – Gestion des villes (de 1,5 à 2 journées) ###
 Rappel de la mission:
+
 - Difficulté : **
 - Résultats attendus :
 - Le projet 
@@ -185,6 +188,7 @@ Sur cette mission, nous avons travaillé en quatuor!
 ### Mission 5 : Fusion des applications / Gestion des adresses – Gestion des villes (de 1 à 1,5 journées) ###
 
 Rappel de la mission:
+
 - Difficulté : *
 - Résultats attendus :
 - Le projet 

@@ -1,5 +1,3 @@
-# Projet Python – Ressources
-
 Afin de nous aider dans la réalisation du projet, nous avons eu des documents et fichiers ressources: 
 
 ## Planning du projet: 

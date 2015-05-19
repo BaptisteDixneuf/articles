@@ -1,0 +1,39 @@
+## Situation 1 : Projet GSB - Analyse ##
+- A1.1.1 Analyse du cahier des charges d'un service à produire
+	- Analyse du cahier des charges concernant l'application Access existante et l'application Java à réaliser
+- A1.1.3 Étude des exigences liées à la qualité attendue d'un service
+	- Étude des normes et contraintes de l'application Java à mettre en place
+- A1.3.1 Test d'intégration et d'acceptation d'un service
+	- Réalisation des tests fonctionnels de l'application Access existante
+- A1.4.1 Participation à un projet
+	- Participation au projet avec rédaction de la documentation et codage de l'application Java suivi avec redmine
+- A1.4.2 Évaluation des indicateurs de suivi d'un projet et justification des écarts
+	- Suivi de l'évolution du projet, et, analyse des écarts entre temps prévu et temps consommé, avec Redmine et rédaction de SCRUMs
+- A4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative
+	- Conception des interfaces de l'application Java.
+- A4.1.3 Conception ou adaptation d'une base de données
+	- Migration de la base de données sous Oracle, Modélisation de la base de données
+- A5.2.4 Étude d‘une technologie, d'un composant, d'un outil ou d'une méthode
+	- Étude de l'application Access
+
+## Situation 2 : Projet GSB - Conception ##
+- A1.2.4 Détermination des tests nécessaires à la validation d'un service
+	- Rédaction des tests des fonctionnalités demandées et des jeux d’essai
+- A1.2.5 Définition des niveaux d'habilitation associés à un service
+	- Utilisation du compte admin « swiss » pour se connecter à l’application. Définition des visiteurs, et des praticiens (base de données)
+- A1.3.4 Déploiement d'un service
+	- Déploiement de l’application sur la ferme de serveur de l’équipe et sur la ferme de serveur personnelle
+- A1.4.3 Gestion des ressources
+	- Recensement des ressources (IDE, base de données Oracle, documents) et adaptation du planning en fonction des demandes
+- A4.1.1 Proposition d'une solution applicative
+	- Proposition d’une application répondant aux demandes
+- A4.1.3 Conception ou adaptation d'une base de données
+	- Migration de la base de données sous Oracle, Modélisation de la base de données
+- A4.1.6 Gestion d'environnements de développement et de test
+	- Exploitation de Netbeans pour le développement et la réalisation des tests fonctionnels
+- A4.1.7 Développement, utilisation ou adaptation de composants logiciels
+	- Développement des interfaces utilisateurs, adaptation des composants en fonction du code
+- A4.1.8 Réalisation des tests nécessaires à la validation d'éléments adaptés ou développés
+	- Réalisation des tests Métier et Dao pour vérifier les classes Métier et Dao (liaison avec la base de données)
+- A5.2.3 Repérage des compléments de formation ou d'auto-formation utiles à l'acquisition de nouvelles compétences
+	- Compléments de formation pour le Java MVC

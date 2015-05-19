@@ -1,6 +1,3 @@
-# Projet Python #
-
-
 ## Étape 1: Installation de Python sur la machine Ubuntu ##
 
 Rappel de la mission:
@@ -104,9 +101,11 @@ Dans un premier temps vous pouvez faire saisir le nom du fichier et la date corr
 Rappel de la mission:
 
 Vous réaliserez l’ensemble des tests suivants pour les fichiers log_proxy_2014-01-jj.txt
+
 - Les sites les plus visités : nombre d’utilisateurs par site
 - La liste des utilisateurs les plus consommateurs: nombre de lignes du fichier de log par utilisateur
 - Qui a consulté tel site, tel jour, à telle heure ? qui a consulté le site de l’équipe entre 7h et 9h, le 16/01/2014 
+
 
 ### Travail à rendre: ###
 - le compte rendu de test 

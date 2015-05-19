@@ -1,0 +1,19 @@
+## Situation 1 : [Stage 2] - VIF - Projet Firewall ##
+- A1.2.1 Élaboration et présentation d'un dossier de choix de solution technique
+	- Rédaction du cahier des charges 
+- A1.2.2 Rédaction des spécifications techniques de la solution retenue (adaptation d'une solution existante ou réalisation d'une nouvelle solution)
+	- Rédaction du cahier des charges spécifiant l'interface utilisateur et le langage retenu
+- A1.3.4 Déploiement d'un service
+	- Installation d'une machine sur le pool XenServer et configuration des IPs et installation du projet
+- A4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative
+	- Conception d'interface utilisateur avec HMLT5/CSS3/Angularjs
+- A4.1.3 Conception ou adaptation d'une base de données
+	- Réalisation d'une API pour intéragir avec le fichier Iptables
+- A4.1.5 Prototypage de composants logiciels
+	- Réalisation de maquette pour l'interface utilisateur
+- A4.1.7 Développement, utilisation ou adaptation de composants logiciels
+	- Développement d'une API en PHP et réalisation d'une interface avec AngularJS
+- A4.1.9 Rédaction d'une documentation technique
+	- Rédaction d'une documentation technique destiné au développeur souhaitant ajouter des fonctionnalités ou modifier le Template de génération des iptables
+- A4.1.1 Rédaction d'une documentation d'utilisation
+	- Rédaction d'une documentation d'utilisation de l'interface pour pouvoir ajouter/modifier/supprimer/trier/grouper une iptable

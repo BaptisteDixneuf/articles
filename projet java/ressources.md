@@ -1,5 +1,3 @@
-# Projet Java – Ressources #
-
 Durant notre projet, nous avons eu différents documents et le code source de l’application comme ressources afin de nous guider, et,de nous aider dans nos démarches:
 
 - Présentation des missions, du planning et de l’évaluation du projet : [Projet1SLAMSemestre2-2014](https://docs.google.com/document/d/1ea7qjkkbogcYuD9VYwRYhE51I1-gL-JN5SAYTDoPIoI/edit) 

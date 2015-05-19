@@ -1,0 +1,27 @@
+## [Stage 2] - VIF - Projet Agenda ##
+- A1.2.1 Élaboration et présentation d'un dossier de choix de solution technique
+	- Détermination du mode de fonctionnement à mettre en place (création des événements de manière synchrone/asynchrone, avec ou sans réplication) et le langage de programmation à utiliser (Code PHP/Java avec déploiement en interne ou sur Google AppEngine).
+- A1.2.2 Rédaction des spécifications techniques de la solution retenue (adaptation d'une solution existante ou réalisation d'une nouvelle solution)
+	- Rédaction du cahier des charges et des scénarios 
+- A1.2.4 Détermination des tests nécessaires à la validation d'un service
+	- Préparation des jeux d'essai du système de synchronisation des agendas
+- A1.2.5 Définition des niveaux d'habilitation associés à un service
+	- Utilisation du service LDAP de VIF pour authentifier les utilisateurs au service
+- A1.3.4 Déploiement d'un service
+	- Déploiement en production du service sur le serveur interne de VIF
+- A1.4.3 Gestion des ressources
+	- Planification des itérations et de la méthode/outil de travail envisagé
+- A2.3.2 Proposition d'amélioration d'un service
+	- Proposition de l'OAuth serveur-serveur proposé par Google Apps  plus pratique que l' OAuth client-serveur proposé par défaut
+- A3.2.2 Remplacement ou mise à jour d'éléments défectueux ou obsolètes
+	- migration de PHP 5.x à PHP 5.5 
+- A4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative
+	- Modification de l'interface utilisateur pour indiquer l'avancement de la synchronisation à l'utilisateur
+- A4.1.3 Conception ou adaptation d'une base de données
+	- Modification de  la base de données pour sauvegarder l'indentifiant renvoyé par l'API Google Agenda
+- A4.1.6 Gestion d'environnements de développement et de test
+	- Copie de la machine xenserver pour l'environnement de test et de développement
+- A4.1.7 Développement, utilisation ou adaptation de composants logiciels
+	- Utilisation du Client Google PHP pour intéragir avec l'API Google Agenda
+- A4.1.9 Rédaction d'une documentation technique
+	- Réalisation d'une documentation qui indique les changements effectués sur le site Intranet Congés de VIF

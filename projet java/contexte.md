@@ -1,5 +1,3 @@
-# CONTEXTE: #
-
 Découverte d’une application, codée en java, permettant l’affichage d’adresses stockées dans une base de données grâce à la saisie de leur « id », et, amélioration de celle-ci pour une meilleur ergonomie.
 
 ## CONSTITUTION DES ÉQUIPES: ##
